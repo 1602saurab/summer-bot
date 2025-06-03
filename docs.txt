@@ -25,3 +25,21 @@ In requirements.txt ---->
 streamlit   ----> for ui 
 google-generativeai  ---> lllm interations 
 python-dotenv ----> it is used for import our credentials from e.nv file to main file . 
+
+
+.env file ---> addd Google_api_key 
+
+app.py ---> run the application . 
+
+open the terminal and write 
+
+streamlit run app.py 
+
+
+git init 
+
+git add . 
+
+git commit -m "added" 
+
+
