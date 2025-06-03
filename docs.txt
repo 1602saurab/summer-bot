@@ -42,4 +42,6 @@ git add .
 
 git commit -m "added" 
 
+git branch -M main 
 
+git remote add origin https://github.com/your_github_name/summer-bot.git
